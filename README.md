@@ -16,6 +16,11 @@ Welcome to **CodeBase-RAG**, a lightweight Retrieval-Augmented Generation (RAG) 
 
 ## 🛠️ How to Run
 
+## create a .env with 
+## GROQ_API_KEY
+## COHERE_API_KEY https://dashboard.cohere.com/api-keys
+
+
 ```
 python -m venv venv
 -ource venv/bin/activate  # or venv\Scripts\activate on Windows
