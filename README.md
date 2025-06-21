@@ -21,6 +21,8 @@ python -m venv venv
 -ource venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
+streamlit run app.py
+
 ```
 
 
