@@ -1,4 +1,4 @@
-# 🧠 CodeBase-RAG: AI-Powered Code Search & Assistant
+#  CodeBase-RAG
 
 Welcome to **CodeBase-RAG**, a lightweight Retrieval-Augmented Generation (RAG) powered app that helps you **search and understand large codebases using natural language**. Upload your code, ask technical questions, and get smart answers with relevant code snippets.
 
