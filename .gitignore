@@ -1,0 +1,6 @@
+.venv
+.env              
+vectorstore      
+codebase         
+codebase.zip      
+__pycache__    
