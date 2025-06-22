@@ -32,3 +32,5 @@ if st.button("Get Answer") and query:
         st.markdown(f"```\n{response}\n```")
     except Exception as e:
         st.error(f"❌ Error: {e}")
+
+
